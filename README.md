@@ -1,85 +1,44 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
-Certificate:
-Task - 1
-Project Understanding:
-A data analyst sits between the business and the data.
 
-One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
-She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
-Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
-About Client : Social Buzz
-Task for Accenture :
-Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
-Accenture Project Team :
+# Project Overview:
+Mae Mulligan, a Managing Director at Accenture, is overseeing a project for a client named Social Buzz, which has recently grown to a massive scale. The primary challenge for Social Buzz is managing their expanding data needs internally. Accenture has been tasked to audit Social Buzz's big data practices, provide recommendations for an Initial Public Offering (IPO), and analyze the popularity of different content categories
 
 
-Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+# Objectives:
+The main goal for the data analytics team is to analyze sample datasets to understand the popularity of various content categories, specifically identifying the top five categories based on popularity.
 
-In short, the client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
 
-Task - 2
-Often you won’t need all these datasets to find what you’re looking for.
-So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
-After Analysis we got data sets needed to complete analysis:
-Reaction Score(score is used to quantified the popularity)
-Content ID
-Reaction Types
-Content type
-Category
-Data Cleaning:
-Clean the data by:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
-Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
-End result will be three cleaned data set :
+# Approach:
 
-Reaction Types
-Reactions
-Content
-Data Modelling:
-Create a final data set by merging 3 tables
+# Data Selection:
+Identified essential datasets necessary for the analysis, including Reaction Score, Content ID, Reaction Types, Content Type, and Category.
+# Data Cleaning: 
+Executed data cleaning by removing rows with missing values, adjusting data types, and omitting irrelevant columns.
+# Data Modeling:
+Merged three key datasets (Reaction Types, Reactions, Content) to create a comprehensive dataset that facilitates in-depth analysis.
 
-End result will be one spreadsheet
 
-A cleaned dataset
-Top 5 categories
-Cleaned Data set:
-So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
+# Deliverables:
 
-Task - 3
-Data Visualization and Storytelling:
-Make the Powerpoint presentation as per the given template
+# Cleaned Dataset:
+A refined dataset ready for analysis, focusing on the business question of identifying the top content categories by popularity.
+# Data Visualization :  
+Prepared visual representations using pie charts and bar charts to illustrate the findings effectively.
+# Presentation : 
+Developed a PowerPoint presentation detailing the analysis process, findings, and recommendations.
 
-Charts Involved :
 
-Pie Chart
-Bar Chart
-Powerpoint Presentation : PPT
-Task - 4
-Present to the Client:
-Present your powerpoint presentation to the client and deliver the insights of your analysis
 
-About
-Accenture Data Analytics & Visualization Internship
+# Conclusion:
 
-Topics
-data-visualization data-modeling data-cleaning
-Resources
- Readme
- Activity
-Stars
- 17 stars
-Watchers
- 1 watching
-Forks
- 6 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
+The project successfully created a clear, analyzed dataset that highlights the top five popular content categories for Social Buzz. These insights are crucial for strategic decision-making, particularly in supporting the company’s readiness for an IPO and refining its content strategy.
+
+# Next Steps:
+
+Present the findings to Social Buzz during a scheduled meeting to discuss the insights and strategic recommendations based on the data analysis.
+
+
+
+
+
 
